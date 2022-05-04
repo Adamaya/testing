@@ -1,5 +1,5 @@
 # testing
-mermaid
+```mermaid
 graph TD;
     A-->C;
     B-->D;
